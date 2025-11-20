@@ -1,0 +1,463 @@
+id,lesson_id,label,url,software,desc
+101,,Úvod,https://drive.google.com/open?id=1q1k1XrBUWK-pyKbXlaNsZ_ow7_Q38ypr&usp=drive_copy,PS,"Základy Photoshopu:
+- Rastrová grafika
+- Rozhraní Adobe Photoshop
+
+Práce s dokumenty:
+- Základní nástroje
+- Práce s formáty grafických souborů
+
+Montážní plochy:
+- Vytváření a přidávání montážních ploch
+- Práce s parametry a vlastnostmi montážních ploch
+- Přesun a změna velikosti prvků
+- Filtrování vrstev a export montážních oblastí
+
+Navigace a prohlížení:
+- Navigace v dokumentu
+- Měřítko zobrazení
+- Nástroje pro prohlížení dokumentu
+
+Průvodci a nastavení:
+- Práce s průvodci a vodítky
+- Nastavení panelu nástrojů
+- Použití hardwarové akcelerace grafiky (volitelně)"
+102,,Zrušení akcí. Velikost obrázků. Transformace,https://drive.google.com/open?id=1C3xdxnWHsbhoYkOZym08d624R-q5_TnZ&usp=drive_copy,PS,"Zrušení akcí:
+- Storno systém
+- Omezení systému zrušení
+- Nastavení systému zrušení
+
+Velikosti obrázků:
+- Koncept rozměrů obrazu
+- Fyzická a logická velikost obrazu
+- Rozlišení
+- Převzorkování obrazu
+- Artefakty převzorkování
+- Změna velikosti obrázku
+- Příkaz Velikost obrázku
+
+Transformace:
+- Otáčení a zrcadlení obrazu
+- Příkazy pro otočení
+- Zarovnání obrazu
+- Příkazy pro ořezávání
+- Příkaz Velikost plátna
+- Nástroj pro ořezávání
+- Práce s nástrojem Oříznutí
+- Oříznutí se změnou velikosti
+
+- Pomocné značení
+- Korekce zkreslení perspektivy"
+103,,Nástroje pro výběr,https://drive.google.com/open?id=1ZprLThnfKYvQctarzQXrAyKv4Cf6Sljr&usp=drive_copy,PS,"Nástroje pro výběr
+- Pojem přidělení
+- Zobrazení výběru v dokumentu
+- Zřetelné a rozmazané zvýraznění
+
+Nástroje pro výběr:
+- Nástroje pro výběr tvaru
+- Specifické nástroje pro výběr (Marquee, Lasso, Magic Wand, Select, Color Range, Rychlý výběr, Výběr objektu, Paint Bucket)
+
+Práce s vybranými oblastmi:
+- Výběr příkazů nabídky
+- Přesouvání a kopírování vybraných oblastí
+
+Transformace vybraných oblastí:
+- Transformační rámec
+- Měřítko, obrácení, deformace, převzorkování
+- Křivočará transformace
+- Content-Aware Scale
+
+Transformace a modifikace výběrů
+- Příkazy pro modifikaci výběru (Border, Expand, Contract, Smooth, Feather, Refine Edge)
+
+Přidělení podle kanálu:
+- Vytvoření alfa kanálu
+- Výběr podle kanálu
+- Načítání výběru na základě kanálu
+
+Nástroj pero (Pen Tool):
+- Použití nástroje Pen pro přesné výběry
+- Vyplnění a obkreslení vybraných oblastí
+
+Příkazy Fill, Stroke
+
+Logické operace s přidělováním"
+104,,Teorie barev. Výplň a gradient,https://drive.google.com/open?id=1LBqeNS-eT6QYpbnZpNFTaEUyL8P1C8Yl&usp=drive_copy,PS,"- Barevné kolo
+- Barevné modely
+
+Práce s barvami:
+- Hloubka barev
+- Barevné kanály
+- Hlavní pracovní barvy
+- Paleta barev
+- Výběr barev
+
+Gradienty:
+- Vytvoření gradientní výplně
+- Plynulé přechody
+- Správa barevných gradientů
+
+Vzory:
+- Bezešvé vzory
+- Nástroj Pattern Stamp"
+105,,Vrstvy a režimy prolnutí,https://drive.google.com/open?id=1s9OCBK352pDywhY2ILIpn06vULGchi-h&usp=drive_copy,PS,"Základy vrstev:
+- Koncept vrstvy ve Photoshopu
+- Operace s vrstvami (vytvoření, přejmenování, odstranění, kopírování, výměna)
+- Seskupování vrstev
+- Organizace vrstev:
+
+Paleta vrstev:
+Typy vrstev a jejich uspořádání
+
+Režimy prolínání:
+- Typy režimů prolínání
+- Překrývající se režimy prolínání
+- Speciální režimy prolínání (zesvětlení, ztmavení)
+- Kombinované a technické režimy překrytí"
+106,,Nástroje pro kreslení,https://drive.google.com/open?id=1P6HfYlZoXxfpG7Gp6ou59zFf3MGueUPE&usp=drive_copy,PS,"Základní nástroje:
+- Štětec a tužka
+
+Důležité nástroje:
+- Štětec
+- Mixer Brush
+
+Nastavení:
+- Průhlednost
+- Režimy prolínání barev
+- Brush Settings
+
+Dynamika štětce:
+- Tvar, rozptyl, textura
+- Dvojitý štětec
+
+Dynamika barev:
+- Barevná dynamika
+- Přenos barev
+- Rozšíření možností:
+
+Instalace štětců třetích stran"
+107,,Výběrové masky. Masky vrstev,https://drive.google.com/open?id=1V6lYTwQvsOFmuVvaml6SlbeBmhIWJyaS&usp=drive_copy,PS,"Výběrové masky:
+- Nevýhody jednoduchých metod výběru
+- Částečný a nejasný výběr
+- Rozsah barev pro speciální výběry
+
+Rychlá maska:
+- Vytváření složitějších výběrů
+
+Masky vrstev:
+- Alfa kanály pro zachycení a uchování výběrů
+- Rastrová maska vrstvy (alternativa k odstranění obsahu)
+
+Komplexní výběry:
+- Použití Select and Mask pro výběr vlasů z komplexního pozadí
+- Object Selection Tool"
+108,,"Vektorové funkce v aplikaci Adobe
+Photoshop",https://drive.google.com/open?id=1-dGwPlcGv3cC8Cw0bmEKpdsX44G1365r&usp=drive_copy,PS,"Práce s tvary:
+- Vlastnosti režimů: Tvar, Dráha, Pixely
+
+Režimy:
+- Režim pixelů
+- Tvarový režim
+- Režim dráhy
+
+Práce s obrysy:
+- Vlastnosti a manipulace s obrysy
+
+Vektorová maska vrstvy:
+- Použití vektorových prvků jako masky na vrstvách"
+109,,Práce s textem,https://drive.google.com/open?id=1gww0pKaKu4ZHfN1usxsZq3HnEzx4261z&usp=drive_copy,PS,"Textové vrstvy:
+- Koncept a typy textu
+
+Nastavení textu:
+- Textové vrstvy a jejich úpravy
+
+Vzhled textu:
+- Anti-aliasing a formátování
+
+Rozložení a efekty:
+- Automatické rozložení a Text Warp
+
+Pokročilé funkce:
+- Umístění textu podél křivky
+- Převod textu na křivky
+
+Správa písem:
+- Instalace a nastavení písem"
+110,,Styly vrstev,https://drive.google.com/open?id=1NPbRXf5Ddwlt9Bg3tmousuOudqbexpW4&usp=drive_copy,PS,"Základní efekty:
+- Stínování a tahové efekty
+- Barevné překrytí, gradient a vzor
+- Efekt tahu
+
+Detailní efekty:
+- Saténový, kapkový a vnitřní stín
+- Efekty záře a objemu
+- Zkosení a reliéf
+- Efekty obrysů a textury
+
+Nastavení zobrazení vrstev:
+- Další úpravy zobrazení
+- Instalace stylů třetích stran
+- Inspirace"
+111,,Korekce tónů. Korekce barev,https://drive.google.com/open?id=1srP11KnXpq8MtWklLYDdevGC7kfXlqxS&usp=drive_copy,PS,"Korekce obrazu:
+- Koncept histogramu a analýza obrazu
+- Dynamický rozsah a jeho vyhodnocení pomocí histogramů
+
+Korekce tónů:
+- Příkazy Jas/Kontrast, Úrovně, Curves, Shadows/Highlights
+- Ovládání jasu a kontrastu, včetně zastaralého režimu
+
+Korekce barev:
+- Nástroje pro vyvážení barev, Photo Filter, Vibrance
+- Příkazy Odstín/Saturace, Hue/Saturation, Black and White
+
+Zbarvení obrázku:
+- Tónování obrazu a použití barevných kanálů
+- Změna barevného odstínu, selektivní změna barvy, zbarvení pomocí různých technik
+
+Speciální efekty:
+- Příkazy Invertovat, Threshold, Posterize, Gradient Map, Replace Color
+- Praktická cvičení s nástroji pro automatickou korekci barev"
+112,,Dynamické vrstvy,https://drive.google.com/open?id=1pdGFz8wogSPCZdoYGOIBzloL2B3hkZcW&usp=drive_copy,PS,"Dynamické vrstvy:
+- Význam dynamických vrstev
+- Tvorba a práce s dynamickými vrstvami
+- Výplňové vrstvy, vrstvy pro úpravy a filtry"
+113,,Chytré objekty,https://drive.google.com/open?id=1tY1OwMWIWN_cbBJ9kd8yX8dVeFvrFGh9&usp=drive_copy,PS,"Chytré objekty:
+- Vytváření a význam
+- Výhody používání
+- Typy inteligentních vrstev
+- Úprava obsahu
+
+Vytváření Mockupu:
+- Práce s nástrojem
+- Vytváření a tipy"
+114,,Nástroje pro retušování,https://drive.google.com/open?id=15Zf1niu2vIh7PM-IVzqtQvjXTavPHu9L&usp=drive_copy,PS,"Retušovací nástroje: 
+- Spot Healing Brush, Healing Brush, Patch Tool, Content Aware Move Tool, Red Eye Tool, Clone Stamp Tool.
+
+Korekční nástroje: 
+- Filtry Blur, Sharpen, Noise, Add Noise, Despeckle, Dust and Scratches, Median, Reduce Noise.
+
+Nástroje Blur: 
+- Blur Tool, Sharpen Tool, Smudge Tool.
+
+Příbuzné nástroje: 
+- History Brush, Art History Brush.
+
+Frekvenční rozklad:
+- Dvojitý frekvenční rozklad, Rozklad na dvě frekvence."
+115,,Filtry,https://drive.google.com/open?id=1inGN37tJvwPPRckJMMConcIi6wCB88Tv&usp=drive_copy,PS,"Filtry:
+- Filtry Adobe Photoshop,
+- Filtry s vlastním rozhraním
+
+
+Galerie filtrů (kombinujte více filtrů a vytvářejte komplexní efekty):
+- Použití filtrů na inteligentní objekty
+- Přednastavené filtry aplikace Photoshop
+- Umělecké filtry, šum, zkreslení, generátor filtrů, ostatní filtry
+- Korekce zkreslení objektivu
+
+Filtry ke stylizaci:
+- Rozmazání, vytlačení, reliéf, vyhledání okrajů, osvěltení, dlaždice, obrysy stopy, cítr
+
+Použití filtrů Photoshopu pro retušování:
+- Filtr ""Plastika"""
+116,,Pixel Art,https://drive.google.com/open?id=1FaGIWKq1FJRd0w0JgrMk5W3vYqFB_axW&usp=drive_copy,PS,"- Techniky a pravidla pro vytváření snímků s velmi nízkým rozlišením
+- Principy pixel artu
+- Izometrie v pixelovém umění
+- Nástroje: Tužka, Jednosloupcový okraj, Jednořádkový okraj
+- Vytvoření a příprava pixel-artového obrázku pro animaci snímků"
+117,,Matte Painting,https://drive.google.com/file/d/14PAGhBLNnXwt--XnIv0ay9WPQurcvqbo/view?usp=sharing,PS,"- Fáze vytváření obrazu pomocí matte painting
+- Výběr koncepce a obrázků pro práci
+- Umístění a zpracování obrázků
+- Kreslení stínů a globální osvětlení"
+118,,18. Animace,https://drive.google.com/file/d/1jLBsog2LU6FieEMuj9--aMuFVzHam4vb/view?usp=sharing,PS,"- Zásady animace (např. Komprese, Očekávání, Inscenace)
+- Časová osa a animační principy
+- Klíčový bod animace
+- Vytvoření animovaného banneru
+- Praktický úkol"
+119,,Pluginy. Automatizace akcí,https://drive.google.com/file/d/1ByeYf0PBlG6KGX7CE2eedSUXAGdArO0G/view?usp=sharing,PS,"Pluginy:
+- Přehled pluginů třetích stran
+- Kompatibilita s hlavní aplikací
+- Oblíbené pluginy pro Adobe Photoshop
+
+Automatizace akcí:
+- Koncept makropříkazů
+- Vytváření a správa akcí
+- Dávkové zpracování souborů
+
+Paleta akcí:
+- Podstata a použití
+- Další nastavení v paletě Actions
+- Vytváření a úprava makropříkazů
+
+Skupina příkazů:
+- Skupina příkazů Soubor - Automatizovat"
+201,,Úvod,https://drive.google.com/open?id=1iKUqMb9oBZwNh-qgi6urs3fNJvt6Weny&usp=drive_copy,AI,"Základy vektorové grafiky:
+- Co je vektorová grafika
+- Vlastnosti a použití vektorové grafiky
+- Rozdíly mezi vektorovou a pixelovou grafikou
+
+Struktura vektorové grafiky:
+- Objekty, obrysy a uzly
+- Vektorové křivky (Bézierovy křivky)
+- Tvorba a úprava vektorových objektů
+
+Výhody a nevýhody vektorové grafiky:
+- Flexibilita a škálovatelnost
+- Vhodnost pro různé typy designu
+- Porovnání s pixelovou grafikou
+
+Úloha vektorové grafiky v designu:
+- Loga a značky
+- Tisk a webový design
+- Kombinace s pixelovou grafikou
+
+Instalace a rozhraní Adobe Illustrator:
+- Instalace aplikace
+- Přehled a přizpůsobení rozhraní
+- Navigace v pracovním prostředí
+
+Práce s dokumenty:
+- Vytvoření nového dokumentu
+- Nastavení dokumentu
+- Práce s formáty vektorových souborů
+
+Navigace a montážní plochy:
+- Navigace v dokumentu
+- Vytváření a správa montážních ploch
+- Export montážních oblastí
+
+Základní nástroje:
+- Výběrové nástroje
+- Kreslení grafických primitiv
+- Úpravy a transformace objektů
+
+Práce s barvami a styly:
+- Nastavení výplně a obrysů
+- Použití barevných palet
+- Aplikace gradientů a vzorů"
+202,,Práce s objekty,https://drive.google.com/open?id=1UOXgi7mMCOuNgpj9L4UnPCI6e_1Ladms&usp=drive_copy,AI,"- Práce s objekty
+- Nastavení výběru objektů
+- Identifikace podle vlastností objektu
+- Výběr podle typu objektu
+- Nastavení pohybujících se objektů
+- Kopírování a vkládání
+- Paleta transformací
+- Pomocné nástroje: Pravítka, Vodicí linie, Chytrá vodítka, Mřížka"
+203,,Beziérovy křivky,https://drive.google.com/open?id=1zic1lyIe1P5eAQs2-Jtu1EDnP0L8XJ4-&usp=drive_copy,AI,"- Beziérovy křivky
+- Vytváření jednoduchých vektorových tvarů
+- Příkazy nabídky
+- Ovládací panel
+- Složené obrysy"
+204,,Práce s obrysy,https://drive.google.com/open?id=12H89jZh52f9zM5p8epL4FsrUKKBsHvAi&usp=drive_copy,AI,"- Práce s obrysy
+- Základní logické operace
+- Další obrysové operace
+- Nástroj pro mazání
+- Nástroj Střih
+- Nástroj Nůž
+- Příkaz Rozdělit objekty pod ním"
+205,,Trasování,https://drive.google.com/open?id=1Cs41NJDV6lIehgamdKTyPhf_Yc9P4RwC&usp=drive_copy,AI,"- Trasování
+- Související obrázky
+- Obrázková pole
+- Ořezávací masky
+- Automatické trasování
+- Ruční trasování
+- Trasování vzoru
+- Trasování loga
+- Trasování ozdobných nápisů
+- Trasování stopy
+- Trasování kresby tužkou"
+206,,Výplně,https://drive.google.com/open?id=1K9YsZgeAbTyKYHE0NwZOHppvd3_52Knu&usp=drive_copy,AI,"- Přiřazení libovolné barvy
+- Barevné vzorky
+- Lokální a globální vzorky barev
+- Ukázkové knihovny
+- Skupiny barev
+- Transformace vzorované výplně
+- Vytvoření vzoru na míru
+- Přebarvení snímků
+- Přebarvení grafiky a přebarvení pomocí předvolby"
+207,,Obrysy,https://drive.google.com/open?id=16ZvbII9OaBBmzWR4OuPRLnzSrsrARlkY&usp=drive_copy,AI,"- Nastavení obrysů
+- Štětce Adobe Illustrator
+- Kaligrafické štětce
+- Štětce–rozprašovače
+- Umelecké štětce
+- Štětinové štětce
+- Vzorované štětce
+- Barvení štětců"
+208,,Text,https://drive.google.com/open?id=1RRjycBryqW0tdQFB9GgFADaoJF_U_cnZ&usp=drive_copy,AI,"- Nástroj Textový rámec
+- Typy textu
+- Nastavení textu
+- Touch type tool - ovládání písmen v textu
+- Obtékaní grafických objektů textem
+- Kontrola pravopisu
+- Převod textu do křivek"
+209,,Vrstvy,https://drive.google.com/open?id=1ssWrf0Xpf498HyMua5SbQIt-o0sVsA92&usp=drive_copy,AI,"- Pojem vrstvy
+- Funkce palety vrstev
+- Přejmenování vrstev, objektů a skupin objektů
+- Vytvoření nové vrstvy
+- Atributy vrstvy
+- Operace s vrstvami a objekty ve vrstvách
+- Vložené vrstvy
+- Vyselektování objektů v palete vrstev
+- Clipping mask
+- Šablónové vrstvy
+- Režim izolace
+- Kopírování a vkládání vrstev do druhého dokumentu"
+301,,Úvod,https://drive.google.com/open?id=1Avq4X3boZOB8vikPKz-76Yif7RcpPI77&usp=drive_copy,ID,"Úvod
+Rozhraní Adobe InDesign
+Typy souborů v aplikaci InDesign
+Okno vytvoření dokumentu
+Okno dokumentu
+Práce s objekty"
+302,,Základní textové operace,https://drive.google.com/open?id=1LHrqreI9o-rm_0qDJ00EpSSu4YaD6kuy&usp=drive_copy,ID,"Základní textové operace
+Co je text?
+Vytváření textových rámečků
+Ovládací panel pro text
+Import textu do Adobe InDesign"
+303,,Práce s obrázky,https://drive.google.com/open?id=19SKmWeoYXxhK02PBSq1qmysIpyfpyqgi&usp=drive_copy,ID,"Import grafických souborů do aplikace Adobe InDesign
+Práce s obrázkem v okně dokumentu
+Ořezávání kontur"
+304,,Práce s barvami,https://drive.google.com/open?id=1MP3WHs1Iv_Mx1eOVseO9Dpd_yFRedA5q&usp=drive_copy,ID,"Barevné modely a jejich účel
+Nástroje pro barvy v aplikaci Adobe InDesign
+Praktický úkol (projekt)"
+305,,Vytváření vícestránkových publikací,https://drive.google.com/open?id=1nBmZkm_WzT707EfpRtfKkFBLm9pqcrdp&usp=drive_copy,ID,"Práce se šablonami stránek
+Správa vícestránkové publikace
+Hlavní šablony: vytváření a přizpůsobení
+Práce s více hlavními šablonami
+Samostatný úkol (projekt)"
+306,,Základní pravidla pro rozvržení a typografii,https://drive.google.com/open?id=1rnK6dQLheTnbhFWc0RLrraB-G-jujdRm&usp=drive_copy,ID,"Způsoby umístění textu v publikaci
+Základní pravidla rozvržení a jejich kontrola
+Kontrola a zpracování importovaného textu"
+307,,"Základní práce se styly
+Vyhledávání (CTRL+F)",https://drive.google.com/open?id=1XpKNNbsiDKF-1x7QVEjO78V48AB94Apd&usp=drive_copy,ID,"Co jsou to styly, jaké jsou, jak je vytvářet a používat
+Jak sestavit složitější konstrukce ze základních stylů
+Jak urychlit označování textu pomocí různých kritérií vyhledávání"
+308,,Použití stylů k automatizaci práce,https://drive.google.com/open?id=1yaaV7nJsFJDtqRH10EN_FIj4DGOUbhJn&usp=drive_copy,ID,"Jak vytvářet a navrhovat tabulky a jaké styly jsou vhodné
+Jak urychlit práci pomocí stylů pro ovládání všech prvků (objektů) publikace
+Jak importovat styly z jiných dokumentů
+Jak vytvořit automatický obsah a další seznamy obsahu"
+309,,Vlastnosti uspořádání periodik,https://drive.google.com/open?id=1akqWMiduTSyUIrDDsVaflf-qBfrQKSI9&usp=drive_copy,ID,"Jaký je rozdíl mezi periodikem a knihou?
+Co je modulární mřížka a jak ji vypočítat?
+Proč a jak používat vícesloupcové rámečky?
+Jak zpestřit vzhled materiálů v časopisech pomocí dalších nastavení stylu?
+Co jsou objektové knihovny a jak je používat?"
+310,,Kniha jako složený typ publikace,https://drive.google.com/open?id=1DR2o9g5bqaaFsF1GnBtF4CVk0H5KzS5C&usp=drive_copy,ID,"Co je to kniha jako typ souboru
+Co je to stylový zdroj a synchronizace částí knihy
+Jak organizovat ""průchozí"" operace v knize (kontrola, vytvoření obsahu, výstup)"
+311,,Práce s věděckým aparátem,https://drive.google.com/open?id=1qgOcBEbtdH1UyyvdMkRYggeGEgazOuqG&usp=drive_copy,ID,"Co je to index (věcný index) a jak se vytváří?
+Jak vytvořit a navrhnout srozumitelné poznámky pod čarou?
+Proč jsou křížové odkazy potřebné a jak se vytvářejí?
+Jak vytvořit seznam adresátů pro mnoho různých příjemců?"
+312,,Vlastnosti a rozvržení elektronických publikací,https://drive.google.com/open?id=1zXvbmLCvFCy6UT_2fTacl3fp9nEmWbcf&usp=drive_copy,ID,"Jak se elektronické publikování liší od běžného publikování?
+Jaké typy elektronických publikací jsou k dispozici?
+Jak vytvořit „proměnné“ rozložení pro zobrazení na mobilních zařízeních?
+Jak pracovat s více rozvrženími v jednom souboru?"
+313,,Interaktivní prvky a multimédia v elektronickém publikování,https://drive.google.com/open?id=1PGL9kB8BVcZHIuB7LuJn3oPERefSn-9A&usp=drive_copy,ID,"Co je to interaktivita v publikaci?
+Jak přidat hypertextové odkazy do publikace a kam mohou vést?
+Jak vytvářet tlačítka a jaké akce s nimi mohou být spojeny?
+Jak přidat filmy a hudbu do rozvržení?"
+315,,Kontrola před tiskem a výstup rozvržení,https://drive.google.com/open?id=1h2OhNGyzcfruydLI0GQgRygTHjFN2V_h&usp=drive_copy,ID,"Jaké kontroly jsou nutné při přípravě rozvržení pro tisk?
+Jaké jsou různé výstupní metody?
+Na co se zaměřit při výběru typu výstupního souboru?
+Jak vytvořit základní pásmo?"
+401,,Zadání 1. Semestrální práce,https://drive.google.com/file/d/1juwyB7xtsyDyfJdV-yoCYYWoZReY7wFT/view?usp=sharing,Semestrální práce,"Zadání, pokyny, informace"
+402,,Zadání 2. Semestrální práce,https://drive.google.com/file/d/1a6ZibE6fQgNIC00ks68J7J0CwVcLGIH9/view?usp=sharing,Semestrální práce,"Zadání, pokyny, informace"
